@@ -54,7 +54,7 @@ cd ci\_task
 
 
 
-3. Install dependencies:
+2. Install dependencies:
 
 
 ```bash
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 
 
-4. Run the scraper and analysis script:
+3. Run the scraper and analysis script:
 
 
 
